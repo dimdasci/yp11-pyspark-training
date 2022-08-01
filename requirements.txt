@@ -1,0 +1,7 @@
+pyspark==3.0.2
+numpy==1.20.1
+matplotlib==3.3.4
+pandas==1.2.4
+ipykernel==6.12.1
+notebook==6.4.10
+jupyter_contrib_nbextensions==0.5.1
