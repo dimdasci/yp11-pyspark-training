@@ -5,7 +5,7 @@ This project assumes using conda to manage environments.
 
 ## How to install and run
 
-    git clone
+    git clone https://github.com/dimdasci/yp11-pyspark-training.git
     cd ./yp11-pyspark-training
     make install
     conda activate ./envs
